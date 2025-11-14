@@ -1,5 +1,5 @@
 ==============================================================================
-                 ECE1512 Project A: Random Token Pruning
+ECE1512 Project A: Random Token Pruning
 ==============================================================================
 1. Open Final_Pruning_Code.ipynb
 2. If the necessary libraries are not already added, run sections 1 and 2 first.
